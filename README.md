@@ -16,6 +16,7 @@
 【优质文章或视频】
 
 - 一个较为深入的科普视频：https://b23.tv/vByqg4V
+- new bing 接入教程：https://blog.csdn.net/JakeMa1024/article/details/129030002
 
 【聚合网站】
 - AI 导航｜最新最前沿的 AI 产品：https://www.ainavpro.com/
