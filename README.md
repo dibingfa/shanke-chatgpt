@@ -12,6 +12,7 @@
 【AI 绘图】
 
 - openai 的：https://labs.openai.com/
+- 解决了画手问题的最牛 AI：https://www.midjourney.com/
 
 【优质文章或视频】
 
