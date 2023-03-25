@@ -13,6 +13,7 @@
 
 - openai 的：https://labs.openai.com/
 - 解决了画手问题的最牛 AI：https://www.midjourney.com/
+- 文心一格：https://yige.baidu.com
 
 【优质文章或视频】
 
